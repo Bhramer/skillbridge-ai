@@ -1,0 +1,229 @@
+{
+  "Python": [
+    {"title": "Python Official Tutorial", "url": "https://docs.python.org/3/tutorial/", "type": "documentation", "platform": "Python.org", "difficulty": "beginner"},
+    {"title": "Automate the Boring Stuff with Python", "url": "https://automatetheboringstuff.com/", "type": "book", "platform": "Free Book", "difficulty": "beginner"},
+    {"title": "Python for Everybody (Coursera)", "url": "https://www.coursera.org/specializations/python", "type": "course", "platform": "Coursera", "difficulty": "beginner"},
+    {"title": "Real Python Tutorials", "url": "https://realpython.com/", "type": "tutorial", "platform": "Real Python", "difficulty": "intermediate"},
+    {"title": "Python Design Patterns", "url": "https://refactoring.guru/design-patterns/python", "type": "tutorial", "platform": "Refactoring Guru", "difficulty": "advanced"}
+  ],
+  "JavaScript": [
+    {"title": "MDN JavaScript Guide", "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide", "type": "documentation", "platform": "MDN", "difficulty": "beginner"},
+    {"title": "JavaScript.info", "url": "https://javascript.info/", "type": "tutorial", "platform": "JavaScript.info", "difficulty": "beginner"},
+    {"title": "You Don't Know JS (Book Series)", "url": "https://github.com/getify/You-Dont-Know-JS", "type": "book", "platform": "GitHub", "difficulty": "advanced"},
+    {"title": "Eloquent JavaScript", "url": "https://eloquentjavascript.net/", "type": "book", "platform": "Free Book", "difficulty": "intermediate"},
+    {"title": "JavaScript30", "url": "https://javascript30.com/", "type": "course", "platform": "Wes Bos", "difficulty": "intermediate"}
+  ],
+  "TypeScript": [
+    {"title": "TypeScript Handbook", "url": "https://www.typescriptlang.org/docs/handbook/", "type": "documentation", "platform": "TypeScript.org", "difficulty": "beginner"},
+    {"title": "Total TypeScript", "url": "https://www.totaltypescript.com/", "type": "course", "platform": "Total TypeScript", "difficulty": "intermediate"},
+    {"title": "Type-Level TypeScript", "url": "https://type-level-typescript.com/", "type": "course", "platform": "Type-Level TS", "difficulty": "advanced"},
+    {"title": "TypeScript Deep Dive", "url": "https://basarat.gitbook.io/typescript/", "type": "book", "platform": "GitBook", "difficulty": "intermediate"}
+  ],
+  "React": [
+    {"title": "React Official Docs", "url": "https://react.dev/", "type": "documentation", "platform": "React.dev", "difficulty": "beginner"},
+    {"title": "React - The Complete Guide (Udemy)", "url": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/", "type": "course", "platform": "Udemy", "difficulty": "beginner"},
+    {"title": "Epic React by Kent C. Dodds", "url": "https://epicreact.dev/", "type": "course", "platform": "Epic React", "difficulty": "advanced"},
+    {"title": "React Patterns", "url": "https://reactpatterns.com/", "type": "tutorial", "platform": "React Patterns", "difficulty": "intermediate"},
+    {"title": "Bulletproof React", "url": "https://github.com/alan2207/bulletproof-react", "type": "repository", "platform": "GitHub", "difficulty": "advanced"}
+  ],
+  "Angular": [
+    {"title": "Angular Official Tutorial", "url": "https://angular.dev/tutorials", "type": "documentation", "platform": "Angular.dev", "difficulty": "beginner"},
+    {"title": "Angular University", "url": "https://angular-university.io/", "type": "course", "platform": "Angular University", "difficulty": "intermediate"}
+  ],
+  "Vue.js": [
+    {"title": "Vue.js Official Guide", "url": "https://vuejs.org/guide/introduction.html", "type": "documentation", "platform": "Vue.js", "difficulty": "beginner"},
+    {"title": "Vue Mastery", "url": "https://www.vuemastery.com/", "type": "course", "platform": "Vue Mastery", "difficulty": "intermediate"}
+  ],
+  "Next.js": [
+    {"title": "Next.js Learn Course", "url": "https://nextjs.org/learn", "type": "course", "platform": "Vercel", "difficulty": "beginner"},
+    {"title": "Next.js Documentation", "url": "https://nextjs.org/docs", "type": "documentation", "platform": "Vercel", "difficulty": "intermediate"}
+  ],
+  "Node.js": [
+    {"title": "Node.js Official Docs", "url": "https://nodejs.org/docs/latest/api/", "type": "documentation", "platform": "Node.js", "difficulty": "beginner"},
+    {"title": "The Node.js Handbook", "url": "https://www.freecodecamp.org/news/the-definitive-node-js-handbook/", "type": "tutorial", "platform": "freeCodeCamp", "difficulty": "beginner"},
+    {"title": "Node.js Design Patterns", "url": "https://www.nodejsdesignpatterns.com/", "type": "book", "platform": "Book", "difficulty": "advanced"}
+  ],
+  "Express": [
+    {"title": "Express.js Guide", "url": "https://expressjs.com/en/guide/routing.html", "type": "documentation", "platform": "Express.js", "difficulty": "beginner"},
+    {"title": "MDN Express Tutorial", "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs", "type": "tutorial", "platform": "MDN", "difficulty": "beginner"}
+  ],
+  "Django": [
+    {"title": "Django Official Tutorial", "url": "https://docs.djangoproject.com/en/5.0/intro/tutorial01/", "type": "documentation", "platform": "Django", "difficulty": "beginner"},
+    {"title": "Django for Beginners (Book)", "url": "https://djangoforbeginners.com/", "type": "book", "platform": "Book", "difficulty": "beginner"}
+  ],
+  "FastAPI": [
+    {"title": "FastAPI Official Tutorial", "url": "https://fastapi.tiangolo.com/tutorial/", "type": "documentation", "platform": "FastAPI", "difficulty": "beginner"},
+    {"title": "Full Stack FastAPI Template", "url": "https://github.com/tiangolo/full-stack-fastapi-template", "type": "repository", "platform": "GitHub", "difficulty": "intermediate"}
+  ],
+  "Java": [
+    {"title": "Oracle Java Tutorials", "url": "https://docs.oracle.com/javase/tutorial/", "type": "documentation", "platform": "Oracle", "difficulty": "beginner"},
+    {"title": "Java Programming MOOC (Helsinki)", "url": "https://java-programming.mooc.fi/", "type": "course", "platform": "University of Helsinki", "difficulty": "beginner"}
+  ],
+  "Go": [
+    {"title": "A Tour of Go", "url": "https://go.dev/tour/", "type": "tutorial", "platform": "Go.dev", "difficulty": "beginner"},
+    {"title": "Go by Example", "url": "https://gobyexample.com/", "type": "tutorial", "platform": "Go by Example", "difficulty": "beginner"},
+    {"title": "Learn Go with Tests", "url": "https://quii.gitbook.io/learn-go-with-tests/", "type": "book", "platform": "GitBook", "difficulty": "intermediate"}
+  ],
+  "Rust": [
+    {"title": "The Rust Programming Language", "url": "https://doc.rust-lang.org/book/", "type": "book", "platform": "Rust-lang.org", "difficulty": "beginner"},
+    {"title": "Rustlings Exercises", "url": "https://github.com/rust-lang/rustlings", "type": "exercises", "platform": "GitHub", "difficulty": "beginner"}
+  ],
+  "C++": [
+    {"title": "LearnCpp.com", "url": "https://www.learncpp.com/", "type": "tutorial", "platform": "LearnCpp", "difficulty": "beginner"},
+    {"title": "C++ Reference", "url": "https://en.cppreference.com/", "type": "documentation", "platform": "CppReference", "difficulty": "intermediate"}
+  ],
+  "SQL": [
+    {"title": "SQLBolt Interactive Lessons", "url": "https://sqlbolt.com/", "type": "tutorial", "platform": "SQLBolt", "difficulty": "beginner"},
+    {"title": "Mode SQL Tutorial", "url": "https://mode.com/sql-tutorial/", "type": "tutorial", "platform": "Mode", "difficulty": "intermediate"},
+    {"title": "Use The Index, Luke", "url": "https://use-the-index-luke.com/", "type": "book", "platform": "Free Book", "difficulty": "advanced"}
+  ],
+  "PostgreSQL": [
+    {"title": "PostgreSQL Official Tutorial", "url": "https://www.postgresql.org/docs/current/tutorial.html", "type": "documentation", "platform": "PostgreSQL.org", "difficulty": "beginner"},
+    {"title": "PostgreSQL Exercises", "url": "https://pgexercises.com/", "type": "exercises", "platform": "PG Exercises", "difficulty": "intermediate"}
+  ],
+  "MongoDB": [
+    {"title": "MongoDB University", "url": "https://learn.mongodb.com/", "type": "course", "platform": "MongoDB", "difficulty": "beginner"},
+    {"title": "MongoDB Manual", "url": "https://www.mongodb.com/docs/manual/", "type": "documentation", "platform": "MongoDB", "difficulty": "intermediate"}
+  ],
+  "Redis": [
+    {"title": "Redis University", "url": "https://university.redis.com/", "type": "course", "platform": "Redis", "difficulty": "beginner"},
+    {"title": "Redis Official Docs", "url": "https://redis.io/docs/", "type": "documentation", "platform": "Redis.io", "difficulty": "intermediate"}
+  ],
+  "GraphQL": [
+    {"title": "How to GraphQL", "url": "https://www.howtographql.com/", "type": "tutorial", "platform": "How to GraphQL", "difficulty": "beginner"},
+    {"title": "GraphQL Official Learn", "url": "https://graphql.org/learn/", "type": "documentation", "platform": "GraphQL.org", "difficulty": "beginner"}
+  ],
+  "Docker": [
+    {"title": "Docker Getting Started", "url": "https://docs.docker.com/get-started/", "type": "documentation", "platform": "Docker", "difficulty": "beginner"},
+    {"title": "Docker Curriculum", "url": "https://docker-curriculum.com/", "type": "tutorial", "platform": "Docker Curriculum", "difficulty": "beginner"},
+    {"title": "Play with Docker", "url": "https://labs.play-with-docker.com/", "type": "interactive", "platform": "Docker Labs", "difficulty": "beginner"}
+  ],
+  "Kubernetes": [
+    {"title": "Kubernetes Official Tutorial", "url": "https://kubernetes.io/docs/tutorials/", "type": "documentation", "platform": "Kubernetes.io", "difficulty": "beginner"},
+    {"title": "Learn Kubernetes Basics", "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/", "type": "tutorial", "platform": "Kubernetes.io", "difficulty": "beginner"},
+    {"title": "KodeKloud Kubernetes", "url": "https://kodekloud.com/courses/kubernetes-for-the-absolute-beginners/", "type": "course", "platform": "KodeKloud", "difficulty": "beginner"}
+  ],
+  "AWS": [
+    {"title": "AWS Skill Builder", "url": "https://skillbuilder.aws/", "type": "course", "platform": "AWS", "difficulty": "beginner"},
+    {"title": "AWS Well-Architected Labs", "url": "https://www.wellarchitectedlabs.com/", "type": "exercises", "platform": "AWS", "difficulty": "intermediate"},
+    {"title": "AWS Certified Solutions Architect Guide", "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/", "type": "certification", "platform": "AWS", "difficulty": "intermediate"}
+  ],
+  "Google Cloud Platform": [
+    {"title": "Google Cloud Skills Boost", "url": "https://www.cloudskillsboost.google/", "type": "course", "platform": "Google Cloud", "difficulty": "beginner"}
+  ],
+  "Azure": [
+    {"title": "Microsoft Learn - Azure", "url": "https://learn.microsoft.com/en-us/azure/", "type": "course", "platform": "Microsoft", "difficulty": "beginner"}
+  ],
+  "Terraform": [
+    {"title": "Terraform Learn", "url": "https://developer.hashicorp.com/terraform/tutorials", "type": "tutorial", "platform": "HashiCorp", "difficulty": "beginner"},
+    {"title": "Terraform Up & Running", "url": "https://www.terraformupandrunning.com/", "type": "book", "platform": "Book", "difficulty": "intermediate"}
+  ],
+  "CI/CD": [
+    {"title": "GitHub Actions Docs", "url": "https://docs.github.com/en/actions", "type": "documentation", "platform": "GitHub", "difficulty": "beginner"},
+    {"title": "CI/CD Pipeline Tutorial", "url": "https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment", "type": "tutorial", "platform": "Atlassian", "difficulty": "beginner"}
+  ],
+  "Git": [
+    {"title": "Pro Git Book", "url": "https://git-scm.com/book/en/v2", "type": "book", "platform": "Git SCM", "difficulty": "beginner"},
+    {"title": "Learn Git Branching", "url": "https://learngitbranching.js.org/", "type": "interactive", "platform": "Learn Git Branching", "difficulty": "beginner"}
+  ],
+  "TensorFlow": [
+    {"title": "TensorFlow Official Tutorials", "url": "https://www.tensorflow.org/tutorials", "type": "tutorial", "platform": "TensorFlow", "difficulty": "intermediate"},
+    {"title": "Deep Learning Specialization (Coursera)", "url": "https://www.coursera.org/specializations/deep-learning", "type": "course", "platform": "Coursera", "difficulty": "intermediate"}
+  ],
+  "PyTorch": [
+    {"title": "PyTorch Official Tutorials", "url": "https://pytorch.org/tutorials/", "type": "tutorial", "platform": "PyTorch", "difficulty": "intermediate"},
+    {"title": "Fast.ai Practical Deep Learning", "url": "https://course.fast.ai/", "type": "course", "platform": "Fast.ai", "difficulty": "intermediate"}
+  ],
+  "Machine Learning": [
+    {"title": "Andrew Ng's ML Course (Coursera)", "url": "https://www.coursera.org/learn/machine-learning", "type": "course", "platform": "Coursera", "difficulty": "beginner"},
+    {"title": "Hands-On ML with Scikit-Learn", "url": "https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125974/", "type": "book", "platform": "O'Reilly", "difficulty": "intermediate"},
+    {"title": "Google ML Crash Course", "url": "https://developers.google.com/machine-learning/crash-course", "type": "course", "platform": "Google", "difficulty": "beginner"},
+    {"title": "Kaggle Learn", "url": "https://www.kaggle.com/learn", "type": "tutorial", "platform": "Kaggle", "difficulty": "beginner"}
+  ],
+  "Deep Learning": [
+    {"title": "Deep Learning Specialization", "url": "https://www.coursera.org/specializations/deep-learning", "type": "course", "platform": "Coursera", "difficulty": "intermediate"},
+    {"title": "Dive into Deep Learning", "url": "https://d2l.ai/", "type": "book", "platform": "D2L.ai", "difficulty": "intermediate"}
+  ],
+  "NLP": [
+    {"title": "Hugging Face NLP Course", "url": "https://huggingface.co/learn/nlp-course", "type": "course", "platform": "Hugging Face", "difficulty": "intermediate"},
+    {"title": "Stanford CS224N (NLP with Deep Learning)", "url": "https://web.stanford.edu/class/cs224n/", "type": "course", "platform": "Stanford", "difficulty": "advanced"}
+  ],
+  "System Design": [
+    {"title": "System Design Primer", "url": "https://github.com/donnemartin/system-design-primer", "type": "repository", "platform": "GitHub", "difficulty": "intermediate"},
+    {"title": "Designing Data-Intensive Applications", "url": "https://dataintensive.net/", "type": "book", "platform": "Book", "difficulty": "advanced"},
+    {"title": "ByteByteGo System Design", "url": "https://bytebytego.com/", "type": "course", "platform": "ByteByteGo", "difficulty": "intermediate"}
+  ],
+  "Microservices": [
+    {"title": "Microservices.io Patterns", "url": "https://microservices.io/patterns/", "type": "documentation", "platform": "Microservices.io", "difficulty": "intermediate"},
+    {"title": "Building Microservices (O'Reilly)", "url": "https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/", "type": "book", "platform": "O'Reilly", "difficulty": "intermediate"}
+  ],
+  "Design Patterns": [
+    {"title": "Refactoring Guru", "url": "https://refactoring.guru/design-patterns", "type": "tutorial", "platform": "Refactoring Guru", "difficulty": "intermediate"},
+    {"title": "Head First Design Patterns", "url": "https://www.oreilly.com/library/view/head-first-design/9781492077992/", "type": "book", "platform": "O'Reilly", "difficulty": "intermediate"}
+  ],
+  "React Native": [
+    {"title": "React Native Official Docs", "url": "https://reactnative.dev/docs/getting-started", "type": "documentation", "platform": "React Native", "difficulty": "beginner"}
+  ],
+  "Flutter": [
+    {"title": "Flutter Official Codelabs", "url": "https://docs.flutter.dev/codelabs", "type": "tutorial", "platform": "Flutter.dev", "difficulty": "beginner"},
+    {"title": "Flutter Apprentice (Book)", "url": "https://www.kodeco.com/books/flutter-apprentice", "type": "book", "platform": "Kodeco", "difficulty": "beginner"}
+  ],
+  "Spring Boot": [
+    {"title": "Spring Boot Guides", "url": "https://spring.io/guides", "type": "tutorial", "platform": "Spring.io", "difficulty": "beginner"}
+  ],
+  "Agile": [
+    {"title": "Agile Manifesto & Principles", "url": "https://agilemanifesto.org/", "type": "documentation", "platform": "Agile Manifesto", "difficulty": "beginner"},
+    {"title": "Scrum Guide", "url": "https://scrumguides.org/", "type": "documentation", "platform": "Scrum.org", "difficulty": "beginner"}
+  ],
+  "Elasticsearch": [
+    {"title": "Elasticsearch Official Guide", "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html", "type": "documentation", "platform": "Elastic", "difficulty": "intermediate"}
+  ],
+  "Apache Kafka": [
+    {"title": "Kafka Official Documentation", "url": "https://kafka.apache.org/documentation/", "type": "documentation", "platform": "Apache", "difficulty": "intermediate"},
+    {"title": "Confluent Kafka Tutorials", "url": "https://developer.confluent.io/tutorials/", "type": "tutorial", "platform": "Confluent", "difficulty": "intermediate"}
+  ],
+  "Nginx": [
+    {"title": "Nginx Beginner's Guide", "url": "https://nginx.org/en/docs/beginners_guide.html", "type": "documentation", "platform": "Nginx.org", "difficulty": "beginner"}
+  ],
+  "Jest": [
+    {"title": "Jest Official Docs", "url": "https://jestjs.io/docs/getting-started", "type": "documentation", "platform": "Jest", "difficulty": "beginner"}
+  ],
+  "Cypress": [
+    {"title": "Cypress Official Docs", "url": "https://docs.cypress.io/", "type": "documentation", "platform": "Cypress", "difficulty": "beginner"}
+  ],
+  "Tailwind CSS": [
+    {"title": "Tailwind CSS Documentation", "url": "https://tailwindcss.com/docs", "type": "documentation", "platform": "Tailwind", "difficulty": "beginner"}
+  ],
+  "Redux": [
+    {"title": "Redux Official Tutorial", "url": "https://redux.js.org/tutorials/essentials/part-1-overview-concepts", "type": "tutorial", "platform": "Redux.js", "difficulty": "beginner"}
+  ],
+  "Prometheus": [
+    {"title": "Prometheus Getting Started", "url": "https://prometheus.io/docs/prometheus/latest/getting_started/", "type": "documentation", "platform": "Prometheus", "difficulty": "intermediate"}
+  ],
+  "Grafana": [
+    {"title": "Grafana Tutorials", "url": "https://grafana.com/tutorials/", "type": "tutorial", "platform": "Grafana", "difficulty": "intermediate"}
+  ],
+  "OAuth": [
+    {"title": "OAuth 2.0 Simplified", "url": "https://www.oauth.com/", "type": "tutorial", "platform": "OAuth.com", "difficulty": "intermediate"}
+  ],
+  "JWT": [
+    {"title": "JWT.io Introduction", "url": "https://jwt.io/introduction", "type": "documentation", "platform": "JWT.io", "difficulty": "beginner"}
+  ],
+  "Serverless": [
+    {"title": "Serverless Framework Docs", "url": "https://www.serverless.com/framework/docs", "type": "documentation", "platform": "Serverless", "difficulty": "beginner"}
+  ],
+  "LLM": [
+    {"title": "Andrej Karpathy - Intro to LLMs", "url": "https://www.youtube.com/watch?v=zjkBMFhNj_g", "type": "video", "platform": "YouTube", "difficulty": "beginner"},
+    {"title": "LLM University by Cohere", "url": "https://cohere.com/llmu", "type": "course", "platform": "Cohere", "difficulty": "intermediate"}
+  ],
+  "LangChain": [
+    {"title": "LangChain Documentation", "url": "https://python.langchain.com/docs/get_started/introduction", "type": "documentation", "platform": "LangChain", "difficulty": "intermediate"}
+  ],
+  "Pandas": [
+    {"title": "Pandas Official Getting Started", "url": "https://pandas.pydata.org/docs/getting_started/index.html", "type": "documentation", "platform": "Pandas", "difficulty": "beginner"},
+    {"title": "Kaggle Pandas Course", "url": "https://www.kaggle.com/learn/pandas", "type": "course", "platform": "Kaggle", "difficulty": "beginner"}
+  ],
+  "scikit-learn": [
+    {"title": "scikit-learn Tutorials", "url": "https://scikit-learn.org/stable/tutorial/index.html", "type": "documentation", "platform": "scikit-learn", "difficulty": "intermediate"}
+  ]
+}

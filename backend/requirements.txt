@@ -1,0 +1,41 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+pdfplumber==0.11.4
+python-docx==1.1.2
+spacy==3.7.6
+sentence-transformers==3.0.1
+scikit-learn==1.5.1
+nltk==3.9.1
+numpy==1.26.4
+pydantic==2.9.2
+
+# Database
+sqlalchemy[asyncio]==2.0.35
+asyncpg==0.30.0
+aiosqlite==0.20.0
+alembic==1.14.1
+greenlet==3.1.1
+
+# Auth
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]==3.3.0
+bcrypt==4.2.0
+
+# Caching
+redis==5.2.1
+
+# AI
+google-genai==1.14.0
+
+# Resume generation
+reportlab==4.4.0
+
+# HTTP client
+httpx==0.28.1
+
+# Environment
+python-dotenv==1.1.0
+
+# WebSocket
+websockets==14.2
