@@ -1,6 +1,6 @@
 # SkillBridge AI - Resume & Job Intelligence Platform
 
-![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue) ![Python](https://img.shields.io/badge/Python-3.11+-blue) ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen) ![Python](https://img.shields.io/badge/Python-3.11+-blue) ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
 
 AI-powered career platform for resume analysis, job matching, skill gap analysis, and career development.
 
